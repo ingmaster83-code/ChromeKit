@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ChromeKit-v4';
+const CACHE_NAME = 'ChromeKit-v5';
 const ASSETS = ['/', '/index.html', '/css/style.css'];
 
 self.addEventListener('install', e => {
